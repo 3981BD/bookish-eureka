@@ -1,3 +1,5 @@
 # bookish-eureka
 
-Public test on 5/9
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+
